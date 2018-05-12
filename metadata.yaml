@@ -17,6 +17,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Juhani_Aho
     - http://en.wikipedia.org/wiki/Juhani_Aho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13874#Rauhan-erakko
 gutenberg_issued: '2004-10-26'
 gutenberg_type: Text
 identifiers:
